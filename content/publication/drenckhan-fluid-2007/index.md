@@ -1,0 +1,35 @@
+---
+title: Fluid dynamics of rivulet flow between plates
+authors:
+- W. Drenckhan
+- H. Ritacco
+- Arnaud Saint-Jalmes
+- A. Saugey
+- P. Mcguinness
+- A. van Der Net
+- Dominique Langevin
+- Denis Weaire
+date: '2007-01-01'
+publishDate: '2023-11-01T16:50:15.958499Z'
+publication_types:
+- article-journal
+publication: '*Physics of Fluids*'
+doi: 10.1063/1.2757153
+abstract: We present computational and experimental investigations into the fluid
+  dynamics of a narrow stream of surfactant solutions, which descends under gravity
+  between two narrowly spaced, vertical glass plates. Such a \"rivulet\" is bounded
+  by two liquid/solid and two mobile liquid/gas interfaces, posing fluid dynamic problems
+  of direct relevance to local fluid flow in liquidfoams and recently reported meandering
+  phenomena. The rivulet presents a system in which the coupling between the bulk
+  flow and the rheological properties of the gas/liquid interface can be systematically
+  investigated. In particular, it carries the promise of providing an alternative
+  measuring technique for interfacial shear viscosities. We present finite element
+  simulations in conjunction with experiments in order to describe the relationship
+  between the rivulet geometry, the flow field, and the interfacial shear viscosities.
+  We also report on the role of the boundary condition between the liquid-carrying
+  channels (surface Plateau borders) and the thin soap film, which spans the two plates
+  at low flow rates.
+links:
+- name: URL
+  url: https://hal.science/hal-00905300
+---
