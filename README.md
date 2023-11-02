@@ -2,7 +2,7 @@
 
 Site adress:
 
-moryavendil.github.io
+[moryavendil.github.io](moryavendil.github.io)
 
 Created from [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
@@ -11,33 +11,5 @@ The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS make
 
 - 👉 [**Get Started**](https://wowchemy.com/templates/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
 - ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-templates/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-templates/releases)
 
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
-
-## Demo image credits
-
-- [Unsplash](https://unsplash.com)
-
-## Latest news
-
-<!--START_SECTION:news-->
-
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://wowchemy.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://wowchemy.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://wowchemy.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://wowchemy.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://wowchemy.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
