@@ -101,5 +101,5 @@ social:
 highlight_name: false
 ---
 
-Grégoire Le Lay is me.
+I am a currently doing my PhD at MSC.
 {style="text-align: justify;"}
