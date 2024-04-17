@@ -1,0 +1,198 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>G2L</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="G2L" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://labo.msc.u-paris.fr/~lelay/index.md.backup" />
+<meta property="og:url" content="https://labo.msc.u-paris.fr/~lelay/index.md.backup" />
+<meta property="og:site_name" content="G2L" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="G2L" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"G2L","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://labo.msc.u-paris.fr/~lelay/assets/img/logo.png"}},"url":"https://labo.msc.u-paris.fr/~lelay/index.md.backup"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/~lelay/assets/css/colors-auto.css?v=">
+    <link rel="stylesheet" href="/~lelay/assets/css/style.css?v=">
+
+    <link rel="preload" href="/~lelay/assets/img/logo.png" as="image">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+
+  <link rel="shortcut icon" type="image/x-icon" href="/~lelay/favicon.ico">
+
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="sidebar">
+        <header>
+          
+            <img class="img-circle" src="/~lelay/assets/img/logo.png" alt="Logo">
+          
+
+          
+            <h1><a href="https://labo.msc.u-paris.fr/~lelay/">Grégoire Le Lay</a></h1>
+          
+
+          <p>Doing my best to save the phenomena.</p>
+
+	<div>
+	<style scoped>
+        c {
+        color:var(--clr-h1-and-bold);
+        }
+
+        }
+    	</style>
+	<c>Contact</c>
+	</div>
+          <div class="link-wrapper">
+    <style scoped>
+      ul.link a {
+        color:var(--clr-h1-and-bold);
+        text-decoration:none;
+      }
+
+      ul.link a:hover, a:focus {
+        color: var(--clr-a-text-hvr);
+      }
+    </style>
+    <ul class="link">
+      <!-- <li><a href="mailto:gregoire.le-lay@u-paris.fr"><i class="<i class="fa-regular fa-envelope "></i>"></i> gregoire.le-lay@u-paris.fr</a></li> -->
+       <li><a href="mailto:gregoire.le-lay@u-paris.fr"><i class="fa-regular fa-envelope "></i>&nbsp;gregoire.le-lay@u-paris.fr</a></li>
+      <!-- <li><a href="https://orcid.org/0009-0002-2654-368X"><i class="<i class="fa-brands fa-orcid"></i>"></i> ORCID</a></li> -->
+       <li><a href="https://orcid.org/0009-0002-2654-368X"><i class="fa-brands fa-orcid"></i>&nbsp;ORCID</a></li>
+      <!-- <li><a href="https://www.researchgate.net/profile/Gregoire-Le-Lay"><i class="<i class="fa-brands fa-researchgate"></i>"></i> ResearchGate</a></li> -->
+       <li><a href="https://www.researchgate.net/profile/Gregoire-Le-Lay"><i class="fa-brands fa-researchgate"></i>&nbsp;ResearchGate</a></li>
+      <!-- <li><a href="https://www.linkedin.com/in/gregoire-le-lay/"><i class="<i class="fa-brands fa-linkedin"></i>"></i> LinkedIn</a></li> -->
+       <li><a href="https://www.linkedin.com/in/gregoire-le-lay/"><i class="fa-brands fa-linkedin"></i>&nbsp;LinkedIn</a></li>
+      <!-- <li><a href="https://github.com/Moryavendil"><i class="<i class="fa-brands fa-github"></i>"></i> GitHub</a></li> -->
+       <li><a href="https://github.com/Moryavendil"><i class="fa-brands fa-github"></i>&nbsp;GitHub</a></li>
+    </ul>
+  </div>
+
+
+        </header>
+
+        <div class="link-wrapper-mobile" id="link-wrapper-mobile">
+    <style scoped>
+        #link-wrapper-mobile a {
+        color:var(--clr-h1-and-bold);
+        text-decoration:none;
+        }
+
+        #link-wrapper-mobile a:hover, a:focus {
+        color: var(--clr-a-text-hvr);
+        }
+    </style>
+    <nobr><a href="mailto:gregoire.le-lay@u-paris.fr" rel="me"><i class="fa-regular fa-envelope "></i>&nbsp;gregoire.le-lay@u-paris.fr</a><span style="margin-left: 6px;"></span></nobr>
+    <nobr><a href="https://orcid.org/0009-0002-2654-368X" rel="me"><i class="fa-brands fa-orcid"></i>&nbsp;ORCID</a><span style="margin-left: 6px;"></span></nobr>
+    <nobr><a href="https://www.researchgate.net/profile/Gregoire-Le-Lay" rel="me"><i class="fa-brands fa-researchgate"></i>&nbsp;ResearchGate</a><span style="margin-left: 6px;"></span></nobr>
+    <nobr><a href="https://www.linkedin.com/in/gregoire-le-lay/" rel="me"><i class="fa-brands fa-linkedin"></i>&nbsp;LinkedIn</a><span style="margin-left: 6px;"></span></nobr>
+    <nobr><a href="https://github.com/Moryavendil" rel="me"><i class="fa-brands fa-github"></i>&nbsp;GitHub</a></nobr>
+</div>
+
+
+        <div class="sidebar-footer"><p><small>Powered by <a href="https://jekyllrb.com/">Jekyll</a> &mdash; Theme adapted from Minimalist, by <a href="https://www.bodunhu.com/">BDHU</a></small></p>
+</div>
+      </div>
+      <section>
+
+      ## About me
+
+I am currently doing my PhD in physics at the [MSC laboratory](https://msc.u-paris.fr/){:target="_blank"} of [Université Paris Cité](https://u-paris.fr/){:target="_blank"} under the supervision of Adrian Daerr.
+
+## Research interests
+I am interest in nonlinear phenomena and instabilities, in particular in the context of hydrodynamics. 
+
+## Academic formation
+
+2022 - Today --- PhD in physics
+
+2022 --- Admission to Agrégation de Physique : High-level competitive examination for future physics teachers for high school and preparatory classes (rank : 2/459) 	
+
+2021 --- Master's degree, Applied and Theoretical Mathematics (MATH), specialization [Mathematical modeling and macroscopic physics](http://www.phys.ens.fr/nonlinear_master/index.html){:target="_blank"}
+
+2017 - 2022 --- Physics at Ecole Normale Supérieure (Bachelor in Physics and M1 [ICFP](http://www.phys.ens.fr){:target="_blank"}), Paris
+
+2017 --- Admission to École Normale Supérieure, via competitive exam
+
+## Publications
+
+Antoine Gaillard, Jack S. Keeler, **Grégoire Le Lay**, Grégoire Lemoult, Alice B. Thompson, Andrew L. Hazel and Anne Juel, The life and fate of a bubble in a geometrically perturbed Hele-Shaw channel, *Journal of Fluid Mechanics*, 914, A34 (2021).  
+DOI: [10.1017/jfm.2020.844](https://doi.org/10.1017/jfm.2020.844){:target="_blank"}
+
+Tania Gajardo, Mathilde Bernard, Marie Lô, Elisa Turck, Claire Leveau, Marie-Thérèse El-Daher, Alexandre Deslys, Patricia Panikulam, Constantin Menche, Mathieu Kurowska, **Grégoire Le Lay** et al., Actin dynamics regulation by TTC7A/PI4KIIIα limits DNA damage and cell death under confinement, *Journal of Allergy and Clinical Immunology*, 152, 4, p949-960 (2023).  
+DOI: [10.1016/j.jaci.2023.06.016](https://doi.org/10.1016/j.jaci.2023.06.016){:target="_blank"}
+
+Sundary Sormendi, Mathieu Deygas, Anupam Sinha, Mathilde Bernard, Anja Krüger, Ioannis Kourtzelis, **Grégoire Le Lay**, Pablo J. Sáez, Michael Gerlach, Kristin Franke et al., HIF2α is a direct regulator of neutrophil motility, *Blood* (2021).  
+DOI: [10.1182/blood.2020007505](https://doi.org/10.1182/blood.2020007505){:target="_blank"}
+
+
+## Teaching
+
+### Ondes
+I teach a short courses on waves and wave-related phenomena for the [Préparation à l'agrégation interne](https://odf.u-paris.fr/fr/offre-de-formation/preparation-agregation-EZ/sciences-technologies-sante-STS/preparation-a-l-agregation-de-physique-chimie-interne-JS65VB35.html){:target="_blank"} of Université Paris Cité.
+
+### Laser
+I give tutorials on lasers to students for the 2A Génie Physique at [EIDD](https://u-paris.fr/eidd/){:target="_blank"}.
+
+### International Physicist's Tournament
+I participate in the training of Université Paris Cité's team for the french selection of the [International Physicists' Tournament](https://iptnet.info/){:target="_blank"}.
+
+### IPhO
+I participate in the selection and training of the French team competing at the [International Physics Olympiads](https://ipho-unofficial.org/){:target="_blank"}.
+
+
+## Outreach
+
+### Chaotic waterwheel
+I devised a small and portable chaotic waterwheel (Malkus--Lorenz like) to explain dynamical systems and chaos to the general public.
+
+
+## Projects
+
+### Limrendir
+Limrendir is a free software that allows for viewing and saving video streams from Genicam compatible cameras using the Aravis library. It is a mashup between [Aravis Viewer](https://aravisproject.github.io/aravis/){:target="_blank"}, which allows for user-friendly interactions with a camera including control and stream visualisation, and [gevCapture](https://gitlab.com/gevcapture/gevcapture){:target="_blank"}, which allows for user-unfriendly recording of said stream.  
+It is coded in C using GTK3. The code is hosted on [Github](https://github.com/Moryavendil/limrendir){:target="_blank"}.
+
+### Tracktor
+Tracktor is a statistical analysis software. It is able to compute many statistical metrics for large tracking datasets and compare the data to existing models. It renders the results in the form of publication-ready figures.  
+It is coded in C++ using Qt5 and Python.
+
+<!--
+## CV
+
+I should really put my CV here.
+-->
+
+
+      </section>
+      <footer><p><small>Powered by <a href="https://jekyllrb.com/">Jekyll</a> &mdash; Theme adapted from Minimalist, by <a href="https://www.bodunhu.com/">BDHU</a></small></p>
+</footer>
+    </div>
+    <script src="/~lelay/assets/js/scale.fix.js"></script>
+  </body>
+</html>
