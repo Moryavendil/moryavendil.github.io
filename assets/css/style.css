@@ -493,6 +493,10 @@ strong {
   font-weight: 700;
 }
 
+.emph {
+  color: var(--clr-h1-and-bold);
+}
+
 section {
   width: 610px;
   float: right;
