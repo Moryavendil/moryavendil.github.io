@@ -1,0 +1,83 @@
+---
+publications:
+
+    SlowLandauLevich:
+      informal_name: Slow Landau Levich
+      comment: 
+      year: "[in review]"
+      authors_short: \bbold{Grégoire Le Lay} & Adrian Daerr
+      authors_long: \bbold{Grégoire Le Lay} & Adrian Daerr
+      title_short: Controlling and characterising thin films with high resolution
+      title_long: Controlling deposition and characterising dynamics of thin liquid films with high temporal and spatial resolution
+      journal_short: arXiv
+      journal_long: arXiv
+      link_official: https://arxiv.org/abs/2502.13552
+      doi: arxiv.org/abs/2502.13552
+      
+    PhaseLockingParametric:
+      informal_name: PRL Rivulets parametric
+      comment: 
+      year: 2025 
+      authors_short: \bbold{Grégoire Le Lay} & Adrian Daerr
+      authors_long: \bbold{Grégoire Le Lay} & Adrian Daerr
+      title_short: Phase-locking parametric instability
+      title_long: Phase-locking parametric instability coupling longitudinal and transverse waves on rivulets in a Hele-Shaw cell
+      journal_short: Phys. Rev. Lett.
+      journal_long: Physical Review Letters
+      link_official: https://doi.org/10.1103/PhysRevLett.134.014001
+      doi: 10.1103/PhysRevLett.134.014001
+      communication: https://u-paris.fr/une-instabilite-parametrique-inedite-dans-un-simple-filet-deau/
+      
+    MagneticLevitation:
+      informal_name: PRE Magnetic Levitation
+      comment: 
+      year: 2024 
+      authors_short: \bbold{Grégoire Le Lay}, Sarah Layani, Adrian Daerr, Michael Berhanu et al.
+      authors_long: \bbold{Grégoire Le Lay}, Sarah Layani, Adrian Daerr, Michael Berhanu et al.
+      title_short: Magnetic levitation in the field of a rotating dipole
+      title_long: Magnetic levitation in the field of a rotating dipole
+      journal_short: Phys. Rev. E
+      journal_long: Physical Review E
+      link_official: https://doi.org/10.1103/PhysRevE.110.045003
+      doi: 10.1103/PhysRevE.110.045003
+      special: \bbold{Editor's suggestion}
+      
+    Bio2023:
+      informal_name: Bio 2 
+      comment: 
+      year: 2023 
+      authors_short: Tania Gajardo, Mathilde Bernard, Marie Lô, Elisa Turck \bbold{et al.}
+      authors_long: Tania Gajardo, Mathilde Bernard, Marie Lô, Elisa Turck, Claire Leveau, Marie-Thérèse El-Daher, Alexandre Deslys, Patricia Panikulam, Constantin Menche, Mathieu Kurowska, \bbold{Grégoire Le Lay} et al.
+      title_short: Actin dynamics regulation limits DNA damage and cell death
+      title_long: Actin dynamics regulation by TTC7A/PI4KIII$\alpha$ limits DNA damage and cell death under confinement
+      journal_short: JACI
+      journal_long: Journal of Allergy and Clinical Immunology
+      link_official: https://doi.org/10.1016/j.jaci.2023.06.016
+      doi: 10.1016/j.jaci.2023.06.016
+      
+    LifeAndFateOfBubble:
+      informal_name: JFM Manchester
+      comment: 
+      year: 2021 
+      authors_short: Antoine Gaillard, Jack S. Keeler, \bbold{Grégoire Le Lay}, Grégoire Lemoult et al.
+      authors_long: Antoine Gaillard, Jack S. Keeler, \bbold{Grégoire Le Lay}, Grégoire Lemoult, Alice B. Thompson, Andrew L. Hazel & Anne Juel
+      title_short: Life and fate of a bubble
+      title_long: The life and fate of a bubble in a geometrically perturbed Hele-Shaw channel
+      journal_short: JFM
+      journal_long: Journal of Fluid Mechanics
+      link_official: https://doi.org/10.1017/jfm.2020.844
+      doi: 10.1017/jfm.2020.844
+      
+    Bio2021:
+      informal_name: Bio 1
+      comment: 
+      year: 2021 
+      authors_short: Sundary Sormendi, Mathieu Deygas, Anupam Sinha, Mathilde Bernard \textbf{et al.}
+      authors_long: Sundary Sormendi, Mathieu Deygas, Anupam Sinha, Mathilde Bernard, Anja Krüger, Ioannis Kourtzelis, \bbold{Grégoire Le Lay}, Pablo J. Sáez, Michael Gerlach et al.
+      title_short: HIF2$\alpha$ is a direct regulator of neutrophil motility
+      title_long: HIF2$\alpha$ is a direct regulator of neutrophil motility
+      journal_short: Blood
+      journal_long: Blood
+      link_official: 10.1182/blood.2020007505
+      doi: 10.1182/blood.2020007505
+      
